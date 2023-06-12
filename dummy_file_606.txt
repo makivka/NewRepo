@@ -1,0 +1,1 @@
+Commit 606 on 2023-06-12 22:27:18: Improved error handling
