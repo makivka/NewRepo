@@ -1,0 +1,1 @@
+Commit 525 on 2024-09-17 17:21:27: Improved event handling
